@@ -27,7 +27,8 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 - Interactive slicers allow **filtering by state and constituency**.
 - Includes a **filled map visualization** representing state-wise vote distribution.
 
-![State-wise Analysis](path_to_statewise_image)
+![State-wise Analysis](https://github.com/user-attachments/assets/24dfeab6-ba18-4b77-b396-27dc978ce871)
+
 
 ---
 
@@ -36,16 +37,18 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 - Shows a detailed **breakdown of votes by party for each constituency**.
 - Interactive tables allow sorting and filtering.
 
-![Constituency-wise Performance](path_to_constituency_image)
+![Constituency-wise Anlaysis](https://github.com/user-attachments/assets/bc3cfb9c-68ed-4e67-b17a-47c6e406721b)
+
 
 ---
 
-### **4️⃣ Alliance-wise Breakdown**
+### **4️⃣ Party & Alliance-wise Breakdown**
 - Highlights **vote share distribution across major alliances (NDA, INDIA, Others)**.
 - Includes **stacked bar chart visualization** for easy comparison.
 - Helps analyze **which alliances performed better in different states**.
 
-![Alliance-wise Breakdown](path_to_alliance_image)
+![Party   Alliance wise Analysis](https://github.com/user-attachments/assets/739a2179-dee4-464e-8e07-9acb37411db3)
+
 
 ---
 
@@ -54,7 +57,8 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 - Provides **vote counts and winning margins for key constituencies**.
 - Highlights **runner-ups in key battles**.
 
-![Key Leaders & Results](path_to_leaders_image)
+![Key Insights](https://github.com/user-attachments/assets/2386ac82-5031-4206-ab8f-80a6dd3a8ccb)
+
 
 ---
 
