@@ -85,7 +85,7 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 - ✅ Prediction models for upcoming elections.  
 
 ## 📌 Live Dashboard Link
-🔗 **[Click Here to View Dashboard]([your-published-powerbi-link](https://app.powerbi.com/view?r=eyJrIjoiMTY5NzJkNDEtMWQyZS00MDE1LWEzNzktMzBkZTBlZGFkZGEzIiwidCI6ImFkZjg3MmYwLTA1MTgtNDY3Zi1iMzUwLTAzNjMxODUzMTQxNCJ9))**  
+🔗 **[Click Here to View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTY5NzJkNDEtMWQyZS00MDE1LWEzNzktMzBkZTBlZGFkZGEzIiwidCI6ImFkZjg3MmYwLTA1MTgtNDY3Zi1iMzUwLTAzNjMxODUzMTQxNCJ9)**  
 
 ---
 
