@@ -12,7 +12,7 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 
 ## 🗂 Report Pages Breakdown
 
-### **1️⃣ Overview Page**
+### **1️⃣ Summary Page**
 - Displays total votes, total constituencies, and total candidates.
 - Provides an **alliance-wise vote share comparison** in a stacked bar chart.
 - Key statistics about top-performing parties.
@@ -85,7 +85,7 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 - ✅ Prediction models for upcoming elections.  
 
 ## 📌 Live Dashboard Link
-🔗 **[Click Here to View Dashboard](your-published-powerbi-link)**  
+🔗 **[Click Here to View Dashboard]([your-published-powerbi-link](https://app.powerbi.com/view?r=eyJrIjoiMTY5NzJkNDEtMWQyZS00MDE1LWEzNzktMzBkZTBlZGFkZGEzIiwidCI6ImFkZjg3MmYwLTA1MTgtNDY3Zi1iMzUwLTAzNjMxODUzMTQxNCJ9))**  
 
 ---
 
