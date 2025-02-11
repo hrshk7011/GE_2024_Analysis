@@ -17,7 +17,7 @@ This Power BI dashboard provides an **Interactive analysis** of the **General El
 - Provides an **alliance-wise vote share comparison** in a stacked bar chart.
 - Key statistics about top-performing parties.
 
-![Overview Page](path_to_overview_image)
+![Summary Page]("C:\Users\ashis\OneDrive\Harsh\GE 2024\Dahboard Pages\Summary.jpg")
 
 ---
 
